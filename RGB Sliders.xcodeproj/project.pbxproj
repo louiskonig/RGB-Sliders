@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		88B1D7B91A159BE400F02BB1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88B1D7B81A159BE400F02BB1 /* AppDelegate.swift */; };
 		88B1D7BB1A159BE400F02BB1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88B1D7BA1A159BE400F02BB1 /* ViewController.swift */; };
 		88B1D7BE1A159BE400F02BB1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88B1D7BC1A159BE400F02BB1 /* Main.storyboard */; };
 		88B1D7C01A159BE400F02BB1 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88B1D7BF1A159BE400F02BB1 /* Images.xcassets */; };
@@ -213,7 +212,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				88B1D7BB1A159BE400F02BB1 /* ViewController.swift in Sources */,
-				88B1D7B91A159BE400F02BB1 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -405,6 +403,7 @@
 				88B1D7D41A159BE400F02BB1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		88B1D7D51A159BE400F02BB1 /* Build configuration list for PBXNativeTarget "RGB SlidersTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +412,7 @@
 				88B1D7D71A159BE400F02BB1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
